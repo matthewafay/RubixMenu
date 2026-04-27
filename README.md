@@ -5,6 +5,8 @@ Each of the cube's six faces is a different category. Drag to rotate, click
 stickers to build your order, then find the **PLACE ORDER** strip on the
 bottom face (or use the side panel button if you give up).
 
+![Demo](docs/demo.gif)
+
 No build step — Three.js loads from a CDN via an ES-module importmap.
 
 ## Run it
